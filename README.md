@@ -3,7 +3,7 @@
 
 An industry-standard, end-to-end data analytics project simulating a corporate-grade business intelligence workflow. This project covers data cleaning, relational database engineering, advanced SQL querying, and interactive dashboard design to convert raw e-commerce data into strategic business insights.
 
----
+--
 
 ## 🛠️ Tech Stack & Skills
 * **Data Cleaning & ETL:** Python (Pandas, NumPy)
